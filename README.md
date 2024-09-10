@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil Gupta</h1>
-<h3 align="center">Data Engineering Associate <a href="https://www.accenture.com/in-en">@Accenture</a></h3>
+<h3 align="center">Data Engineer Mgmt. & Governance Analyst<a href="https://www.accenture.com/in-en">@Accenture</a></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
